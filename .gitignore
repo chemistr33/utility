@@ -1,0 +1,9 @@
+# Ignore object files
+*.o
+
+# Ignore all executables
+*.out
+
+# Ignore temporary files
+*.tmp
+
